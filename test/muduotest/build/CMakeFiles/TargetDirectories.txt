@@ -1,0 +1,3 @@
+/home/xuhaifeng/muduotest/build/CMakeFiles/rebuild_cache.dir
+/home/xuhaifeng/muduotest/build/CMakeFiles/edit_cache.dir
+/home/xuhaifeng/muduotest/build/CMakeFiles/server.dir
