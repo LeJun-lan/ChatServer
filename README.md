@@ -3,7 +3,7 @@
 
 cd build
 
-rm -rf*
+rm -rf *
 
 #清理一下cmake文件
 
